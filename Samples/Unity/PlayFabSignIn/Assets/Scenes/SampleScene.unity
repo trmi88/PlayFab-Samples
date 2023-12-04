@@ -696,7 +696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e492585f484f4edd81c10320732db95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ClearPlayerPrefs: 0
+  ClearPlayerPrefs: 1
   Username: {fileID: 930712498}
   Password: {fileID: 1470583816}
   ConfirmPassword: {fileID: 1743685488}
